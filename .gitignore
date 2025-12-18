@@ -1,0 +1,51 @@
+# .gitignore
+
+# Ignore node_modules directory
+
+node_modules/
+# Ignore log files
+*.log
+# Ignore build output
+dist/
+build/
+# Ignore environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+venv/
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Ignore coverage directory
+coverage/
+# Ignore temporary files
+*.tmp
+*.temp
+# Ignore package lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+# Ignore compiled files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
