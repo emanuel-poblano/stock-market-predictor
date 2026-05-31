@@ -178,12 +178,6 @@ python main.py
 
 ---
 
-## 💬 Interview Talking Point
-
-> “I built an end-to-end stock prediction system that focuses on clean data pipelines, feature engineering, and realistic evaluation rather than overpromising predictive accuracy.”
-
----
-
 ## 📜 Disclaimer
 
 This project is for **educational purposes only** and does not constitute financial or investment advice.
